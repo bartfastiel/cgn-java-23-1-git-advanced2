@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("second line");
         System.out.println("wähh!");
-        System.out.println("Haha");
+        System.out.println("Haha!");
         System.out.println("Hihi");
         System.out.println("Ich habe tolle Farben gemacht!");
     }
