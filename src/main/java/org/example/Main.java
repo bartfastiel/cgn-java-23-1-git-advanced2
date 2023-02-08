@@ -7,5 +7,6 @@ public class Main {
         System.out.println("wähh");
         System.out.println("Haha");
         System.out.println("Hihi");
+        System.out.println("Ich habe Farben gemacht!");
     }
 }
